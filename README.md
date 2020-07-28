@@ -1,5 +1,5 @@
-# HereExercise
-Here MVVM cabs Exercise
+# GetTaxi (Here)
+MVVM cabs Exercise
 
 Small modern android app based MVVM architecture and bunch of great libraries/features/classes such as:
 
